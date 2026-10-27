@@ -50,7 +50,7 @@ These are teaching tools, not quantitative simulations.
 
 ## Credits
 
-- Inspired by the interactive 4D-STEM demo from the [Colin Ophus Lab (COLab), Stanford](https://colab.stanford.edu/interactive) and the [py4DSTEM](https://github.com/py4dstem/py4DSTEM) toolkit. Code here is written independently.
+- Inspired by the interactive 4D-STEM demo from the [Colin Ophus Lab (COLab), Stanford](https://colab.stanford.edu/interactive) and the [py4DSTEM](https://github.com/py4dstem/py4DSTEM) and [hyperspy](https://github.com/hyperspy/hyperspy) toolkits. 
 - LLZO simulations: J. Madsen and T. Susi, "The abTEM code: transmission electron microscopy from first principles," *Open Research Europe* 1, 24 (2021). [doi:10.12688/openreseurope.13015.1](https://doi.org/10.12688/openreseurope.13015.1)
 - LLZO structure: [Materials Project mp-942733](https://next-gen.materialsproject.org/materials/mp-942733) (CC BY 4.0). A. Jain et al., *APL Materials* 1, 011002 (2013).
 
